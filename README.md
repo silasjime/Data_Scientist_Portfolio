@@ -75,6 +75,7 @@ The Data Science Course: Complete Data Science Bootcamp 2024 [Certification](htt
 
 Python for Data Analysis & Visualization (Udemy) [Certification](http://ude.my/UC-48b83915-5a00-46b1-b1e9-5d5b4fc4ca23)
 
-	•	Google Professional Data Analytics Certificate
+Google Professional Data Analytics Certificate [Certification](https://coursera.org/verify/70K99CWGOU1C)
+
 
 
