@@ -73,7 +73,8 @@ April 2022 - Sept 2022
 
 The Data Science Course: Complete Data Science Bootcamp 2024 [Certification](http://ude.my/UC-e9689620-7e44-4880-89dd-10ebf76b9172)
 
-	•	Python for Data Analysis & Visualization (Udemy)
+Python for Data Analysis & Visualization (Udemy) [Certification](http://ude.my/UC-48b83915-5a00-46b1-b1e9-5d5b4fc4ca23)
+
 	•	Google Professional Data Analytics Certificate
 
 
